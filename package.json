@@ -1,0 +1,29 @@
+{
+  "name": "belajar-deploy",
+  "version": "1.0.0",
+  "description": "Belajar deploy ke Cpanel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawarna/belajarDeploy.git"
+  },
+  "keywords": [
+    "cpanel",
+    "deploy"
+  ],
+  "author": "Pawarna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawarna/belajarDeploy/issues"
+  },
+  "homepage": "https://github.com/Pawarna/belajarDeploy#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
